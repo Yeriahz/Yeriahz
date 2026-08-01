@@ -1,16 +1,15 @@
-## Hi there 👋
+## Yeriahz
 
-<!--
-**Yeriahz/Yeriahz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Cybersecurity student. I bartend to pay for school, then spend the rest of my time on security work.
 
-Here are some ideas to get you started:
+Things I do here:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I contribute to open source agent frameworks, testing what I can reach, then write about what I find.
+
+I created [sscsnv.com](https://sscsnv.com), to help individuals and local businesses find the holes in their network, then explain what I find in plain English.
+
+---
+
+Most of it comes back to one idea: a control you have never watched fail is not a control, it's a belief.
+
+[dev.to/yeriahz](https://dev.to/yeriahz) · yeriahz@sscsnv.com
